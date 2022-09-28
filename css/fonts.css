@@ -1,0 +1,31 @@
+/** fonts **/
+
+@font-face {
+    font-family: Old-English;
+    src: url('../fonts/kingthings-spikeless-font/KingthingsSpikeless-lKPZ.ttf');
+}
+
+@font-face {
+    font-family: Cormorant;
+    src: url('../fonts/Cormorant_Garamond/CormorantGaramond-Regular.ttf');
+}
+
+@font-face {
+    font-family: Libre;
+    src: url('../fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf');
+}
+
+@font-face {
+    font-family: Oswald;
+    src: url('../fonts/Oswald/Oswald-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: Playfair;
+    src: url('../fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: Slabo;
+    src: url('../fonts/Slabo_27px/Slabo27px-Regular.ttf');
+}
